@@ -1,0 +1,1 @@
+PotreeConverter.exe cloud.ply -s 0.5 -l 4
